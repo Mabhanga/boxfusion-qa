@@ -15,7 +15,7 @@ A job listings page opens successfully.
 
 ## Actual Result
 A new tab opens displaying:
-> 404 — The page you requested was not found.
+> 404,  The page you requested was not found.
 
 ## Impact
 Experienced candidates are blocked at the final step of the hiring funnel with no alternative path or error recovery.
